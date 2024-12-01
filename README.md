@@ -1,5 +1,6 @@
 <a id="readme-top"></a>
-
+![complete]
+<br><br>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -46,6 +47,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[complete]: https://img.shields.io/badge/project--status-complete-green?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/jaskiewm/PONG.svg?style=for-the-badge
 [contributors-url]: https://github.com/jaskiewm/PONG/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/jaskiewm/PONG.svg?style=for-the-badge
